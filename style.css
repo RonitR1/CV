@@ -1,0 +1,35 @@
+*{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin: 0.5px;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    
+}
+.Details{
+    background-color: #f0cc9f;
+
+}
+.qual{
+    background-color: #7cb29a;
+}
+.pro{
+    background-color: #f99789;
+    /* text-align: left; */
+}
+.con{
+    background-color: #eef78a;
+    height: 10rem;
+}
+.a{
+    background-color: #eef78a;
+width: 100%;
+}
+h5{
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+big{
+    padding: 0;
+    font-weight: 600;
+}
